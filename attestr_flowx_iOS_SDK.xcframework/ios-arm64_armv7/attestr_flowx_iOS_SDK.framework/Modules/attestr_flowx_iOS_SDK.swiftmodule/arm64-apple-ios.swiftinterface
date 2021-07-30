@@ -13,7 +13,7 @@ extension Data {
 @objc @_inheritsConvenienceInitializers public class AttestrFlowx : ObjectiveC.NSObject {
   @objc override dynamic public init()
   public func initialize(cl: Swift.String, hs: Swift.String, _ vc: UIKit.UIViewController) -> attestr_flowx_iOS_SDK.AttestrFlowx?
-  public func launch(lc: Swift.String, retry: Swift.Bool, qr: [Swift.String : Swift.String])
+  public func launch(lc: Swift.String, retry: Swift.Bool, qr: [Swift.String : Swift.String]?)
   @objc deinit
 }
 public protocol AttestrFlowxEventProtocol : AnyObject {
