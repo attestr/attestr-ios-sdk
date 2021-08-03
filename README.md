@@ -1,4 +1,8 @@
 # attestr-ios-sdk
+
+![GitHub](https://img.shields.io/github/license/attestr/attestr-ios-sdk)
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/attestr/attestr-ios-sdk?include_prereleases)
+
 Attestr Framework / SDK For IOS Applications
 
 ### Installation ###
@@ -40,7 +44,7 @@ Check [this](https://docs.attestr.com/attestr-docs/create-handshake-api) for hel
 
 4. Call the _launch_ method
 ```Swift
-p?.launch(lc: language code, retry: retry boolean, qr: nil)
+p?.launch(lc: language code, retry: retry boolean, qr: query parameters dict)
 ```
 
 ### Compatibilty ###
