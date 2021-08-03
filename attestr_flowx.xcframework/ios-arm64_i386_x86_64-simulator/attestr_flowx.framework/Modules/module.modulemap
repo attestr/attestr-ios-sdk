@@ -1,0 +1,4 @@
+framework module attestr_flowx {
+  header "attestr_flowx-Swift.h"
+  requires objc
+}
