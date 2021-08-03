@@ -10,7 +10,7 @@ pod 'attestr-flowx', '~> 0.1.0'
 ```
 
 ### Usage ###
-1. Import _attestr-flowx_
+1. Import _attestr_flowx_
 ```Swift
 import attestr_flowx
 ```
