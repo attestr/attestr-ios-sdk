@@ -44,6 +44,6 @@ p?.launch(lc: language code, retry: retry boolean, qr: nil)
 ### Compatibilty ###
 Made for iPhone and iPad.
 
-Supported OS versions: 10 - 14.5
+Supported OS versions: 10 and above
 
 Compatible with Xcode 11 and above.
