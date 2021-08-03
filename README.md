@@ -49,6 +49,9 @@ p?.launch(lc: language code, retry: retry boolean, qr: query parameters dict)
 Made for iPhone and iPad.
 iOS 10.0+ Swift 4.0+ Xcode 11+
 
+## Changelog ##
+For older versions, check [CHANGELOG](CHANGELOG.md)
+
 ## License ##
 attestr-ios-sdk is distributed under MIT license. Read more in the [LICENSE](LICENSE) file.
 
