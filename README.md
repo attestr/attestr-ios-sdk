@@ -5,8 +5,7 @@
 
 Attestr Framework / SDK For IOS Applications
 
-### Installation ###
----
+## Installation ##
 attestr-ios-sdk can be installed using [Cocoapods](https://cocoapods.org).
 Add the following line to your pod file
 
@@ -14,8 +13,7 @@ Add the following line to your pod file
 pod 'attestr-flowx', '~> 0.1.0'
 ```
 
-### Usage ###
----
+## Usage ##
 1. Import _attestr_flowx_
 ```Swift
 import attestr_flowx
@@ -47,10 +45,15 @@ Check [this](https://docs.attestr.com/attestr-docs/create-handshake-api) for hel
 p?.launch(lc: language code, retry: retry boolean, qr: query parameters dict)
 ```
 
-### Compatibilty ###
----
+## Compatibilty ##
 Made for iPhone and iPad.
+iOS 10.0+ Swift 4.0+ Xcode 11+
 
-Supported OS versions: 10 and above
+## Changelog ##
+For older versions, check [CHANGELOG](CHANGELOG.md)
 
-Compatible with Xcode 11 and above.
+## License ##
+attestr-ios-sdk is distributed under MIT license. Read more in the [LICENSE](LICENSE) file.
+
+## Contact ##
+Write to us at [contact@attestr.com](mailto:contact@attestr.com)
