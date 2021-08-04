@@ -6,6 +6,7 @@ import Foundation
 import Network
 import Swift
 import UIKit
+@_exported import attestr_flowx
 import zlib
 extension Data {
 }
