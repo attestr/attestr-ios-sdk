@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
     s.name              = 'attestr-flowx'
     s.version           = '0.2.0'
     s.summary           = 'Attestr XCFramework/SDK for iOS applications'
-    s.homepage          = 'https://www.attestr.com'
+    s.homepage          = 'https://github.com/attestr/attestr-ios-sdk'
 
     s.author            = { 'Attestr' => 'contact@attestr.com' }
     s.license           = { :type => 'MIT', :file => 'LICENSE' }
