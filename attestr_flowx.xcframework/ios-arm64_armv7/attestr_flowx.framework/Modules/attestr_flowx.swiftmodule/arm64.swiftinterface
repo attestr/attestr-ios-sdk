@@ -17,7 +17,7 @@ extension Data {
   @objc deinit
 }
 public protocol AttestrFlowxEventProtocol : AnyObject {
-  func onFlowxSuccess(_ data: [Swift.String : Swift.String])
+  func onFlowxSuccess(_ data: [Swift.String : Swift.AnyObject])
   func onFlowxError(_ data: [Swift.String : Swift.AnyObject])
-  func onFlowxSkip(_ data: [Swift.String : Swift.String])
+  func onFlowxSkip(_ data: [Swift.String : Swift.AnyObject])
 }
