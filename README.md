@@ -10,7 +10,7 @@ attestr-ios-sdk can be installed using [Cocoapods](https://cocoapods.org).
 Add the following line to your pod file
 
 ```Ruby
-pod 'attestr-flowx', '~> 0.2.0'
+pod 'attestr-flowx', '~> 0.3.0'
 ```
 
 ## Usage ##
