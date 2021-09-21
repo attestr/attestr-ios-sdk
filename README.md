@@ -21,11 +21,11 @@ import attestr_flowx
 2. Make your view controller conform to _AttestrFlowxEventProtocol_ and add your implementation to its methods
 ```Swift
 extension ViewController: AttestrFlowxEventProtocol {
-    func onFlowxSuccess(_ data: [String : String]) {
+    func onFlowxSuccess(_ data: [String : AnyObject]) {
         // your implementation here
     }
 
-    func onFlowxSkip(_ data: [String : String]) {
+    func onFlowxSkip(_ data: [String : AnyObject]) {
         // your implementation here
     }
 

@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|  
 
     s.name              = 'attestr-flowx'
-    s.version           = '0.2.0'
+    s.version           = '0.3.0'
     s.summary           = 'Attestr XCFramework/SDK for iOS applications'
     s.homepage          = 'https://github.com/attestr/attestr-ios-sdk'
 
