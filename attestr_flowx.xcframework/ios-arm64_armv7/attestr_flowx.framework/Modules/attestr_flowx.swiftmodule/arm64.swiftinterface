@@ -1,23 +1,32 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
+// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
 // swift-module-flags: -target arm64-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name attestr_flowx
+import AVFoundation
 import CommonCrypto
+import CoreLocation
 import Foundation
+import MapKit
+import MobileCoreServices
 import Network
+import Photos
+import PhotosUI
 import Swift
 import UIKit
+import WebKit
+import _Concurrency
 @_exported import attestr_flowx
 import zlib
-extension Data {
-}
-@objc @_inheritsConvenienceInitializers public class AttestrFlowx : ObjectiveC.NSObject {
-  @objc override dynamic public init()
-  public func initialize(cl: Swift.String, hs: Swift.String, _ vc: UIKit.UIViewController) -> attestr_flowx.AttestrFlowx?
-  public func launch(lc: Swift.String, retry: Swift.Bool, qr: [Swift.String : Swift.String]?)
+@_hasMissingDesignatedInitializers open class WebSocket {
   @objc deinit
 }
-public protocol AttestrFlowxEventProtocol : AnyObject {
-  func onFlowxSuccess(_ data: [Swift.String : Swift.AnyObject])
-  func onFlowxError(_ data: [Swift.String : Swift.AnyObject])
-  func onFlowxSkip(_ data: [Swift.String : Swift.AnyObject])
+@_inheritsConvenienceInitializers @objc public class AttestrFlowx : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc public func initialize(cl: Swift.String, hs: Swift.String, _ vc: UIKit.UIViewController) -> attestr_flowx.AttestrFlowx?
+  @objc public func launch(lc: Swift.String, retry: Swift.Bool, qr: [Swift.String : Swift.String]?)
+  @objc deinit
+}
+@objc public protocol AttestrFlowxEventProtocol {
+  @objc func onFlowxSuccess(_ data: [Swift.String : Swift.AnyObject])
+  @objc func onFlowxError(_ data: [Swift.String : Swift.AnyObject])
+  @objc func onFlowxSkip(_ data: [Swift.String : Swift.AnyObject])
 }

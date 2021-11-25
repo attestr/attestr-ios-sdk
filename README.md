@@ -10,7 +10,7 @@ attestr-ios-sdk can be installed using [Cocoapods](https://cocoapods.org).
 Add the following line to your pod file
 
 ```Ruby
-pod 'attestr-flowx', '~> 0.2.0'
+pod 'attestr-flowx', '~> 0.3.0'
 ```
 
 ## Usage ##
@@ -21,11 +21,11 @@ import attestr_flowx
 2. Make your view controller conform to _AttestrFlowxEventProtocol_ and add your implementation to its methods
 ```Swift
 extension ViewController: AttestrFlowxEventProtocol {
-    func onFlowxSuccess(_ data: [String : String]) {
+    func onFlowxSuccess(_ data: [String : AnyObject]) {
         // your implementation here
     }
 
-    func onFlowxSkip(_ data: [String : String]) {
+    func onFlowxSkip(_ data: [String : AnyObject]) {
         // your implementation here
     }
 
