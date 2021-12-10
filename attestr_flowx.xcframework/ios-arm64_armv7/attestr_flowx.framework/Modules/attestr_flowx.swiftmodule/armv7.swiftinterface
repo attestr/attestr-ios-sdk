@@ -12,6 +12,7 @@ import Photos
 import PhotosUI
 import Swift
 import UIKit
+import UniformTypeIdentifiers
 import WebKit
 import _Concurrency
 @_exported import attestr_flowx
