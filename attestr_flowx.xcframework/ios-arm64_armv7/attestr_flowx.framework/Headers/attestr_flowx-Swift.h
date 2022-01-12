@@ -258,6 +258,7 @@ SWIFT_PROTOCOL("_TtP13attestr_flowx25AttestrFlowxEventProtocol_")
 
 
 
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
@@ -517,6 +518,7 @@ SWIFT_PROTOCOL("_TtP13attestr_flowx25AttestrFlowxEventProtocol_")
 - (void)onFlowxError:(NSDictionary<NSString *, id> * _Nonnull)data;
 - (void)onFlowxSkip:(NSDictionary<NSString *, id> * _Nonnull)data;
 @end
+
 
 
 
