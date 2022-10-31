@@ -11,7 +11,7 @@ Add the following line to your pod file
 
 ```Ruby
 
-pod 'attestr-flowx', '~> 0.6.0'
+pod 'attestr-flowx', '~> 0.7.0'
 
 ```
 
@@ -49,7 +49,7 @@ p?.launch(lc: language code, retry: retry boolean, qr: query parameters dict)
 
 ## Compatibilty ##
 Made for iPhone and iPad.
-iOS 10.0+ Swift 4.0+ Xcode 11+
+iOS 11.0+ Swift 4.0+ Xcode 11+
 
 ## Changelog ##
 For older versions, check [CHANGELOG](CHANGELOG.md)
