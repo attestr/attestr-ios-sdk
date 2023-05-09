@@ -168,6 +168,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "attestr_flowx",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -676,6 +686,16 @@
         "printedName": "WebKit",
         "declKind": "Import",
         "moduleName": "attestr_flowx"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "attestr_flowx",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -1341,6 +1361,16 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "attestr_flowx",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "attestr_flowx",
         "declAttributes": [
@@ -2595,6 +2625,293 @@
       "value": "\"attestr_flowx.MCAFormView\""
     },
     {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 526,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 567,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 610,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "FloatLiteral",
+      "offset": 687,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "FloatLiteral",
+      "offset": 740,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 783,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 838,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 849,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 911,
+      "length": 13,
+      "value": "\"icon_search\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 1035,
+      "length": 6,
+      "value": "\"cell\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1249,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1293,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1330,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1375,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1451,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1504,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1547,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1602,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1613,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 1714,
+      "length": 9,
+      "value": "\"#EDEDED\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1778,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1787,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1798,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1808,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1949,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1955,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1965,
+      "length": 2,
+      "value": "55"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1977,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2038,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 2065,
+      "length": 7,
+      "value": "\"Clear\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2168,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2284,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2293,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2304,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2314,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2564,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2881,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "Array",
+      "offset": 2909,
+      "length": 263,
+      "value": "[\"J.C Bose University of Science and Technology\", \"AB University\", \"Bla Bla University\", \"J.C Bose University of Science and Technology\", \"AB University\", \"Bla Bla University\", \"J.C Bose University of Science and Technology\", \"AB University\", \"Bla Bla University\"]"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 180,
+      "length": 27,
+      "value": "\"attestr_flowx.DigilockerEducationFormView\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 13105,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DigilockerEducationFormView.swift",
+      "kind": "StringLiteral",
+      "offset": 13261,
+      "length": 13,
+      "value": "\"icon_school\""
+    },
+    {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Services\/NetworkMonitorService.swift",
       "kind": "BooleanLiteral",
       "offset": 455,
@@ -2604,126 +2921,126 @@
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 2166,
+      "offset": 2175,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 2318,
+      "offset": 2336,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 2470,
+      "offset": 2497,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 2621,
+      "offset": 2657,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "BooleanLiteral",
-      "offset": 3005,
+      "offset": 3041,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 3213,
+      "offset": 3249,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 3310,
+      "offset": 3346,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 3705,
+      "offset": 3741,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "StringLiteral",
-      "offset": 8743,
+      "offset": 8983,
       "length": 7,
       "value": "\"theme\""
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "StringLiteral",
-      "offset": 8621,
+      "offset": 8861,
       "length": 14,
       "value": "\"attestr_flowx.FlowxImageView\""
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "StringLiteral",
-      "offset": 8621,
+      "offset": 8861,
       "length": 14,
       "value": "\"attestr_flowx.FlowxImageView\""
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "StringLiteral",
-      "offset": 8621,
+      "offset": 8861,
       "length": 14,
       "value": "\"attestr_flowx.FlowxImageView\""
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 9782,
+      "offset": 10022,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 9666,
+      "offset": 9906,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 9844,
+      "offset": 10084,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 9942,
+      "offset": 10182,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 9997,
+      "offset": 10237,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Views\/FlowxViews.swift",
       "kind": "StringLiteral",
-      "offset": 13141,
+      "offset": 13393,
       "length": 16,
       "value": "\"attestr_flowx.FlowxDocListItem\""
     },
@@ -2737,21 +3054,21 @@
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Extensions\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 5456,
+      "offset": 5202,
       "length": 4,
       "value": "32.0"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Extensions\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 7106,
+      "offset": 6852,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Extensions\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 7141,
+      "offset": 6887,
       "length": 3,
       "value": "0.0"
     },
@@ -2996,28 +3313,28 @@
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/FACE MATCH\/QRView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1673,
+      "offset": 1682,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/FACE MATCH\/QRView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1701,
+      "offset": 1710,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/FACE MATCH\/QRView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1953,
+      "offset": 1962,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/FACE MATCH\/QRView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2001,
+      "offset": 2010,
       "length": 2,
       "value": "20"
     },
@@ -3703,14 +4020,14 @@
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digital Address\/DocUploadFormView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5360,
+      "offset": 5648,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digital Address\/DocUploadFormView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5851,
+      "offset": 6139,
       "length": 2,
       "value": "20"
     },
@@ -4786,6 +5103,41 @@
       "value": "\"attestr_flowx.DLFormView\""
     },
     {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DocDetailsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 496,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DocDetailsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 636,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DocDetailsViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1168,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DocDetailsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1273,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/DocDetailsViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1477,
+      "length": 2,
+      "value": "20"
+    },
+    {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Errors.swift",
       "kind": "StringLiteral",
       "offset": 204,
@@ -5523,7 +5875,7 @@
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/FACE MATCH\/FACE_MATCHFormView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6690,
+      "offset": 6978,
       "length": 2,
       "value": "20"
     },
@@ -6305,6 +6657,139 @@
       "value": "1"
     },
     {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "Array",
+      "offset": 288,
+      "length": 49,
+      "value": "[\"Insititute Bonafide Certificate\", \"Marksheets\"]"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 364,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "StringLiteral",
+      "offset": 602,
+      "length": 13,
+      "value": "\"icon_school\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "StringLiteral",
+      "offset": 677,
+      "length": 15,
+      "value": "\"icon_arrow_up\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "StringLiteral",
+      "offset": 720,
+      "length": 9,
+      "value": "\"#ABABAB\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 851,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "StringLiteral",
+      "offset": 911,
+      "length": 9,
+      "value": "\"#ABABAB\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "StringLiteral",
+      "offset": 1007,
+      "length": 15,
+      "value": "\"icon_arrow_up\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "StringLiteral",
+      "offset": 1197,
+      "length": 17,
+      "value": "\"icon_arrow_down\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "StringLiteral",
+      "offset": 1508,
+      "length": 15,
+      "value": "\"icon_arrow_up\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "StringLiteral",
+      "offset": 1674,
+      "length": 17,
+      "value": "\"icon_arrow_down\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2002,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2060,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2335,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2397,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2539,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2601,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2747,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digilocker Education\/UniView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2809,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/FSSAI\/FSSAImessages.swift",
       "kind": "BooleanLiteral",
       "offset": 297,
@@ -6643,35 +7128,35 @@
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digital Address\/AddressFormView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4331,
+      "offset": 4340,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digital Address\/AddressFormView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4434,
+      "offset": 4443,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digital Address\/AddressFormView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4595,
+      "offset": 4604,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digital Address\/AddressFormView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4672,
+      "offset": 4681,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Stages\/Digital Address\/AddressFormView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4703,
+      "offset": 4712,
       "length": 5,
       "value": "false"
     },
@@ -6699,98 +7184,42 @@
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
       "kind": "StringLiteral",
-      "offset": 423,
-      "length": 7,
-      "value": "\"theme\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 484,
-      "length": 9,
-      "value": "\"#2F2E41\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 550,
-      "length": 9,
-      "value": "\"#2F2E41\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 609,
-      "length": 9,
-      "value": "\"#000000\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 665,
-      "length": 9,
-      "value": "\"#6A6A6A\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 723,
-      "length": 9,
-      "value": "\"#D4D4D4\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 782,
-      "length": 9,
-      "value": "\"#009933\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 839,
-      "length": 9,
-      "value": "\"#A94442\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 902,
-      "length": 9,
-      "value": "\"#787878\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 969,
-      "length": 9,
-      "value": "\"#DEDEDE\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 1037,
-      "length": 9,
-      "value": "\"#F0F0F0\""
-    },
-    {
-      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
-      "kind": "StringLiteral",
-      "offset": 1137,
+      "offset": 1564,
       "length": 18,
       "value": "\"Poppins-SemiBold\""
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
       "kind": "StringLiteral",
-      "offset": 1184,
+      "offset": 1605,
       "length": 16,
       "value": "\"Poppins-Medium\""
     },
     {
       "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
       "kind": "StringLiteral",
-      "offset": 1230,
+      "offset": 1645,
+      "length": 17,
+      "value": "\"Poppins-Regular\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
+      "kind": "StringLiteral",
+      "offset": 1564,
+      "length": 18,
+      "value": "\"Poppins-SemiBold\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
+      "kind": "StringLiteral",
+      "offset": 1605,
+      "length": 16,
+      "value": "\"Poppins-Medium\""
+    },
+    {
+      "filePath": "\/Users\/tusharkalra\/Documents\/Attestr\/attestr-flowx-ios-sdk\/attestr_flowx\/Constants\/Theme.swift",
+      "kind": "StringLiteral",
+      "offset": 1645,
       "length": 17,
       "value": "\"Poppins-Regular\""
     },
