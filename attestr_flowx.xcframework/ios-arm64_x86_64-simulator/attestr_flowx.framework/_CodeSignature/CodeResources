@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		8tFP1j0KJC25gYXLgYqKYoVH1eI=
+		g6J6alaifJFdCao4OIiVGEbcgFw=
 		</data>
 		<key>Headers/attestr_flowx-Swift.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cQJf67Z7xJQMXCqp7a42gGjC9LE=
+		JddvoWc086qugGZ2VDik2QgDggw=
 		</data>
 		<key>Modules/attestr_flowx.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+1xwNAqL2w15WtWvSNVLELPqhl8=
+		aNCQ3nOUSS3ou0gDt/4Y2kOYRgk=
 		</data>
 		<key>Modules/attestr_flowx.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/attestr_flowx.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		v4J5XqWr45mvdQ8Qm51BH1apWfc=
+		Jz9UuO1z8kZFu8oarGKGzMrhaRQ=
 		</data>
 		<key>Modules/attestr_flowx.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+1xwNAqL2w15WtWvSNVLELPqhl8=
+		aNCQ3nOUSS3ou0gDt/4Y2kOYRgk=
 		</data>
 		<key>Modules/attestr_flowx.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/attestr_flowx.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Z5PNUQSwGRGi5SZN9PK8WLYsnjE=
+		BybC4dO1RUQaoNy3pSUVe+iZXt0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dA39y+vLWlhFu7BI3YIDDRhJt78oihtrAyaC7dsPLdo=
+			ZIvdckqMj0zojfZP81cC32SzpT6ogUrSBX9l8ulWPFk=
 			</data>
 		</dict>
 		<key>Headers/attestr_flowx-Swift.h</key>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W3Xh6jlKQldOF4fVncSNNfBwB6mihf5s/IT35iWqbyI=
+			9VqD9uBl7OGUY5pFBPe9r1xlAOxmVnVIUWsWtqdJ03k=
 			</data>
 		</dict>
 		<key>Modules/attestr_flowx.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -143,14 +143,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gDlGLBZ+Q0kPEE/lUlrMFVfRrACDkIFTxpAiynYZfC8=
+			4jEN/pPlluzicGtUohnWkMFnnDHlG6BrliV/dFkp4Ls=
 			</data>
 		</dict>
 		<key>Modules/attestr_flowx.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W3Xh6jlKQldOF4fVncSNNfBwB6mihf5s/IT35iWqbyI=
+			9VqD9uBl7OGUY5pFBPe9r1xlAOxmVnVIUWsWtqdJ03k=
 			</data>
 		</dict>
 		<key>Modules/attestr_flowx.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -178,7 +178,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jvExh0JxohwwL4XR0DkUWfqYgjqcQtuTM8kgPeBPQM4=
+			SnnR+UR53tyUVWusTIqpbJBwdLIfSBhyJhZTPfbGqHo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

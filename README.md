@@ -11,7 +11,7 @@ Add the following line to your pod file
 
 ```Ruby
 
-pod 'attestr-flowx', '~> 0.8.0'
+pod 'attestr-flowx', '~> 0.8.1'
 
 ```
 
